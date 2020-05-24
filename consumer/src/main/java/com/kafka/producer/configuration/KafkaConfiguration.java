@@ -22,7 +22,7 @@ public class KafkaConfiguration {
 	//-----------------------String-Object-----------------------
 	
 	@Bean
-	public ProducerFactory<String, User> producerFactory(){
+	public ProducerFactory<String, User> consumerFactory(){
 		
 		Map<String, Object> config = new HashMap<>();
 
