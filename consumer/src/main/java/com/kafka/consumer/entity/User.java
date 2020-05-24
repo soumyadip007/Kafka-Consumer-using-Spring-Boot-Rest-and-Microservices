@@ -1,4 +1,4 @@
-package com.kafka.producer.entity;
+package com.kafka.consumer.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
