@@ -13,7 +13,7 @@ import org.springframework.kafka.core.ConsumerFactory;
 import org.springframework.kafka.core.DefaultKafkaConsumerFactory;
 import org.springframework.kafka.support.serializer.JsonDeserializer;
 
-import com.kafka.producer.entity.User;
+import com.kafka.consumer.entity.User;
 
 @EnableKafka
 @Configuration
