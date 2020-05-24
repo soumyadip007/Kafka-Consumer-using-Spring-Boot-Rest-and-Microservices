@@ -14,6 +14,8 @@ import org.springframework.kafka.support.serializer.JsonSerializer;
 
 import com.kafka.producer.entity.User;
 
+
+
 @Configuration
 public class KafkaConfiguration {
 
